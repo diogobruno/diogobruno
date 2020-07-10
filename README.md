@@ -2,8 +2,8 @@
 
 - 📫 How to reach me:
 
-- [Twitter](https://www.twitter.com/diogobr07)
-- [Linkedin](https://www.linkedin.com/in/diogo-bruno/)
+  - [Twitter](https://www.twitter.com/diogobr07)
+  - [Linkedin](https://www.linkedin.com/in/diogo-bruno/)
 
 <!--
 **diogobruno/diogobruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
